@@ -1,4 +1,4 @@
-<h1 align="left">Hello, there! ✨ </h3>
+<h1 align="left">Hello, there! </h3>
 
 🧑🏻‍🎓 I am currently a Systems Engineering student at Universidad de los Andes (ULA). I love Computer Science, specifically Machine Learning and Data Science that I consider fundamental for my professional career. 👨‍🏫
 
